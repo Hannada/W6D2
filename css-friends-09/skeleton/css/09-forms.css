@@ -1,0 +1,24 @@
+/* PHASE 9: Forms */
+
+.content-main > .thumb {
+  display:flex;
+}
+/* 
+form > .whatever {
+  display: flex;
+  border: 2px solid black; */
+/* } */
+
+.form-fieldset {
+    display: flex; 
+    margin: 0 0 0 20px;
+    padding: 19px;
+    width: 500px;
+    background: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button, input[type="submit"] {
+  color: green; 
+}
